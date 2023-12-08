@@ -1,0 +1,9 @@
+*{
+    background-color: rgb(73, 233, 121);
+}
+.nav_bar{
+    display: flex;
+    height: 20px;
+    
+    
+}
